@@ -11,12 +11,9 @@
 
 - 👯 I’m looking to collaborate on **R&D Innovation**
 
-- 📫 How to reach me **210393@smkmutumalang.sch.id**
+- 📫 Email :  **210393@smkmutumalang.sch.id**
 
-### Blogs posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

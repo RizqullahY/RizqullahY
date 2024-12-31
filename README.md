@@ -2,29 +2,3 @@
 
 <h1 align="center">Hi 👋, I'm Rafly Rizqullah Yusuf</h1>
 <h3 align="center">Ctrl+C, Ctrl+V specialist since 2010</h3>
-
-<p align="left"> <a href="https://twitter.com/rafli_rizq" target="blank"><img src="https://img.shields.io/twitter/follow/rafli_rizq?logo=twitter&style=for-the-badge" alt="rafli_rizq" /></a> </p>
-
-- 🔭 I’m currently working on **Global Service Indonesia as Intern**
-
-- 🌱 I’m currently learning **Backend and Machine Learning**
-
-- 👯 I’m looking to collaborate on **R&D Innovation**
-
-- 📫 Email :  **210393@smkmutumalang.sch.id**
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rafli_rizq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafli_rizq" height="30" width="40" /></a>
-<a href="https://instagram.com/rfly_rzqllh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rfly_rzqllh" height="30" width="40" /></a>
-<a href="https://discord.gg/raflyrizqullahyusuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="raflyrizqullahyusuf" height="30" width="40" /></a>
-</p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizqullahy&show_icons=true&locale=en&layout=compact" alt="rizqullahy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizqullahy&show_icons=true&locale=en" alt="rizqullahy" /></p>
-
-

@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs every 2 hours
-    - cron: "0 */2 * * *"
+    - cron: "*/30 * * * *"
 jobs:
   update-readme:
     name: Update this repo's README
@@ -13,4 +13,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: all_time
+          SHOW_TIME: true 
+          SHOW_TOTAL: true 
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
